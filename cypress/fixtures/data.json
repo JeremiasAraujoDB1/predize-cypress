@@ -1,0 +1,17 @@
+{
+  "ml": {
+    "login_URL": "https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolivre.com.br%2F&loginType=explicit#nav-header",
+    "product_test_URL": "https://produto.mercadolivre.com.br/MLB-2068399384-item-de-teste-por-favor-no-ofertar-_JM",
+    "userTest": "TETE6445134",
+    "passwordTest": "qatest3788",
+    "question_to_send": "Teste automatizado, por favor, não responder :D",
+    "answer_validate": "Pronto! Você fez sua pergunta. Vamos te notificar quando receber a resposta."
+  },
+  "predize": {
+    "login_URL": "https://app.predize.com.br",
+    "userTest": "automação@teste.com.br",
+    "passwordTest": "123123",
+    "msg_answer": "Teste automatizado respondido e validado a integração com o ML",
+    "msg_expected": "Mensagem enviada com sucesso!"
+  }
+}

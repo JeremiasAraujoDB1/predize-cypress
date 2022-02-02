@@ -1,0 +1,8 @@
+{
+  
+  "chromeWebSecurity": false,
+  "experimentalSessionSupport": true,
+  "viewportWidth": 1440,
+  "viewportHeight": 900
+
+}
